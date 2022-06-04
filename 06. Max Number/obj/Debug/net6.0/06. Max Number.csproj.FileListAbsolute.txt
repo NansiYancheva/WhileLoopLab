@@ -1,0 +1,14 @@
+C:\Visual Studio\While\WhileLekcii\06. Max Number\bin\Debug\net6.0\06. Max Number.exe
+C:\Visual Studio\While\WhileLekcii\06. Max Number\bin\Debug\net6.0\06. Max Number.deps.json
+C:\Visual Studio\While\WhileLekcii\06. Max Number\bin\Debug\net6.0\06. Max Number.runtimeconfig.json
+C:\Visual Studio\While\WhileLekcii\06. Max Number\bin\Debug\net6.0\06. Max Number.dll
+C:\Visual Studio\While\WhileLekcii\06. Max Number\bin\Debug\net6.0\ref\06. Max Number.dll
+C:\Visual Studio\While\WhileLekcii\06. Max Number\bin\Debug\net6.0\06. Max Number.pdb
+C:\Visual Studio\While\WhileLekcii\06. Max Number\obj\Debug\net6.0\06. Max Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\While\WhileLekcii\06. Max Number\obj\Debug\net6.0\06. Max Number.AssemblyInfoInputs.cache
+C:\Visual Studio\While\WhileLekcii\06. Max Number\obj\Debug\net6.0\06. Max Number.AssemblyInfo.cs
+C:\Visual Studio\While\WhileLekcii\06. Max Number\obj\Debug\net6.0\06. Max Number.csproj.CoreCompileInputs.cache
+C:\Visual Studio\While\WhileLekcii\06. Max Number\obj\Debug\net6.0\06. Max Number.dll
+C:\Visual Studio\While\WhileLekcii\06. Max Number\obj\Debug\net6.0\ref\06. Max Number.dll
+C:\Visual Studio\While\WhileLekcii\06. Max Number\obj\Debug\net6.0\06. Max Number.pdb
+C:\Visual Studio\While\WhileLekcii\06. Max Number\obj\Debug\net6.0\06. Max Number.genruntimeconfig.cache
